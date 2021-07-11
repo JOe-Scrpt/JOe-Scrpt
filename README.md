@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JOe-Scrpt
+- 👋 Hi, I’m JOe-Scrpt
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning CSS Grids
 - 💞️ I’m looking to collaborate on front-End projects
